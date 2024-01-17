@@ -1,0 +1,19 @@
+{
+  "name": "sequelize-migration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymihigo/database-migration-usiung-sequlize-and-nidejs.git"
+  },
+  "author": "Mihigo yves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymihigo/database-migration-usiung-sequlize-and-nidejs/issues"
+  },
+  "homepage": "https://github.com/ymihigo/database-migration-usiung-sequlize-and-nidejs#readme"
+}
